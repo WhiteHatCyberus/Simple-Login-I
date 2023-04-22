@@ -12,9 +12,9 @@ def login():
         # Connect to MySQL database
         db = mysql.connector.connect(
             host="localhost",
-            user="username",
-            password="password",
-            database="database_name"
+            user="root",
+            password="",
+            database="mysql"
         )
         
         # Query the users table for the given username and password
