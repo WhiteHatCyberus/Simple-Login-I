@@ -27,3 +27,11 @@ sudo python3 app.py
 ![f1](https://user-images.githubusercontent.com/70995581/233795277-3c16f901-c52c-465d-9e45-ccc2ead5adbb.png)
 - Open http://localhost:5000 in your browser.
 ![f2](https://user-images.githubusercontent.com/70995581/233795279-9e98f115-d594-417d-8c10-e26c2487901c.png)
+
+>**Note**: Learn how to install, setup and configure the latest version of mysql-server in Linux [here](https://medium.com/@whcyberus/install-mysql-server-8-0-32-on-ubuntu-22-04-2-2023-update-fa27fd90b90f)
+
+# Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/whcyberus/)
+- [Blogs](https://ethicalcyberuspathways.wordpress.com/)
+- [Email](mailto:whcyberus@gmail.com)
