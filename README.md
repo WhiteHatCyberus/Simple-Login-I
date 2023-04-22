@@ -7,7 +7,7 @@ password=""
 db_name="mysql"
 ```
 ![f3](https://user-images.githubusercontent.com/70995581/233795669-2e6a843c-bc54-4e5f-b3ce-ceccca25ae0e.png)
-- To enable custom configuration:
+- To enable custom configuration, open `app.py` in your editor and change the entry values:
 ```html
 ....
 # Connect to MySQL database
