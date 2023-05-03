@@ -1,4 +1,4 @@
-**Status: :heavy_check_mark:
+**Status: :heavy_check_mark:**
 # Simple Login I
 >**Note**: Learn how to install, setup and configure the latest version of mysql-server in Linux [here](https://medium.com/@whcyberus/install-mysql-server-8-0-32-on-ubuntu-22-04-2-2023-update-fa27fd90b90f)
 - To begin, install the packages in `requirements.txt` using the `apt` package installer.
